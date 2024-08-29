@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @abhijeet8340
-- 👀 I’m currently working Amazone Clone Website & Netflix Clone Website
 - 🌱 I’m currently learning **HTML,CSS,Javascript
 - Ask me about -- Html,Css,Python,Mysql,Java,C
 - 📫 How to reach me ... ak8340463107@gmail.com
